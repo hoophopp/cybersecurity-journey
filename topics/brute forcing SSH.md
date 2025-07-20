@@ -1,5 +1,6 @@
 ## Brute forcing SSH | today note's
-
+---
+---
 - `Hydra` (thc-hydra): very popular for SSH brute forcing.
 
 - `Medusa`: similar tool to Hydra.
@@ -17,7 +18,7 @@
 - Key-based authentication
 - might require 2FA
 
----
+
   
 # Insta or Fb can detect aso :
 - use capatcha
@@ -25,7 +26,7 @@
 - might require 2FA
 - block ip's
 
----
+
 
 # How can hackers avoid detection:
 - spread their attempts across lots of different IP addresses.
