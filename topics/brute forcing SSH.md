@@ -9,3 +9,8 @@
 - `John the Rippe` (ssh used)§§
 
 - `Patator`: versatile brute force tool.
+
+bash```
+hydra -l username -P /path/to/passwordlist.txt ssh://target_ip```
+  
+
